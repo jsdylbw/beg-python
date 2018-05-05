@@ -1,7 +1,7 @@
 # Print out a date, given year, month, and day as numbers
 
 months = [
-    'January',
+    'January', 
     'February',
     'March',
     'April',
